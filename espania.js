@@ -1,1 +1,2 @@
-console.log('España')
+console.log('España');
+console.log('Madrid');
